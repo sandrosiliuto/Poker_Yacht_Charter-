@@ -1,0 +1,8 @@
+{
+  "name": "Poker Yacht Charter Tenerife",
+  "description": "Exclusive private yacht charters in South Tenerife. Sail on our luxury Azimut 39 with Captain Felipe. Whale watching, private parties, and romantic sunset dinners.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
